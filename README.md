@@ -12,4 +12,4 @@ After that, it's the next player's turn
 The first player to reach Winning Score points on main score wins the game
 
 Lets Play Pig Game with your Friends
-Play - Demo: https://purohitpankaj.github.io/Piggame/pig_game_using_java/
+Play - Demo: https://purohitpankaj.github.io/Piggame/pig_game_using_javascript/
