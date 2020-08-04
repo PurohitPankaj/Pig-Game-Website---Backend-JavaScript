@@ -1,9 +1,3 @@
-                var messages = { 
-                  viewAll: "View all"
-                }
-              </script>
-  
-     <script type="text/javascript">
       $(function() {
         // Sets the copyright year
         var date = new Date();
@@ -160,6 +154,6 @@
           }
         });
       });
-	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
